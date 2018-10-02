@@ -1,6 +1,6 @@
 import sys
 
-dict_1 = {"Dima": "012345", "Ivan": "ssf1d23", "Artur": "434sfs", "Egor": "543210"}
+dict_1 = {"Dmitry": "012345", "Mark": "ssf1d23", "Daniel": "434sfs", "Steven": "543210"}
 
 add_login = input("Create a new login: ")
 
