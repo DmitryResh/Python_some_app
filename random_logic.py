@@ -1,6 +1,6 @@
 import random
 
-print("Welcome To The My Randomiser \nSet The Range Of Random Number")
+print("Set The Range Of Random Number")
 
 enter_max = int(input("Enter maximum "))
 
